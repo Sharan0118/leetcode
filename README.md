@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sharan0118/leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Sharan0118/leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Sharan0118/leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sharan0118/leetcode/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/Sharan0118/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sharan0118/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sharan0118/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sharan0118/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sharan0118/leetcode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sharan0118/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
