@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sharan0118/leetcode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Sharan0118/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sharan0118/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sharan0118/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sharan0118/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sharan0118/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Sharan0118/leetcode/tree/master/0217-contains-duplicate) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sharan0118/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sharan0118/leetcode/tree/master/0055-jump-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sharan0118/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sharan0118/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sharan0118/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
